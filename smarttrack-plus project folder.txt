@@ -1,0 +1,14 @@
+smarttrack-plus/
+├── data/
+│   ├── deliveries_raw.csv
+│   └── customer_feedback.csv
+├── analysis/
+│   └── delivery_issues_analysis.py (or .ipynb if you use Jupyter)
+├── dashboard/
+│   └── smarttrack_dashboard.pbix (Power BI file) or app.py (Streamlit)
+├── docs/
+│   ├── business_case_template.docx
+│   ├── stakeholder_map.png
+│   └── user_stories.md
+├── README.md
+└── requirements.txt
